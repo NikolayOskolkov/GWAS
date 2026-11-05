@@ -1,6 +1,6 @@
 ![](images/logo.png)
 
-# Population Genomics and Structure Analysis
+# Genome-Wide Association Studies (GWAS) for Evolutionary Biology
 
 ## Instructor
 
