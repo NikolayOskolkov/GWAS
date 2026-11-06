@@ -58,6 +58,7 @@ By completing this course, you will:
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
 
+
 ## Day 2: 3 pm - 9 pm Swedish time
 
 | Time           | Activity                                                                                   |Link                                                                                                            |
@@ -66,6 +67,18 @@ By completing this course, you will:
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
 | 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
+
+
+
+## Day 3: 3 pm - 9 pm Swedish time
+
+| Time           | Activity                                                                                   |Link                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15.00 - 17.30  | Introduction to Next Generation Sequencing (NGS) data, BWA alignment and GATK workflow     | [Slides](https://github.com/NikolayOskolkov/GWAS/blob/main/slides/Day3/NGS_workflow_GATK.pdf)                                                                                        |
+| 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
+| 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 20.30 - 21.00  | Questions and discussion                                                                   |
+
 
 
 ## Day 4: 3 pm - 9 pm Swedish time
