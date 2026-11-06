@@ -7,20 +7,29 @@
 - Dr. Nikolay Oskolkov, Group Leader (PI) at NIRI, Riga, Latvia
 
 ## Course overview
-The study of genetic variation within and between populations using next-generation sequencing (NGS) data has become a cornerstone of modern population genomics, with wide-ranging applications in evolutionary biology, human genetics, conservation, and medical research. However, the analysis of low-coverage NGS data poses significant computational and statistical challenges, particularly when moving from raw sequencing reads to biologically meaningful inferences about population structure and demographic history. In this course, we will explore the key challenges and analytical methods in population genomics, focusing on a comprehensive understanding and practical implementation of the variant calling and population structure workflow spanning alignment, genotype likelihood-based inference with GATK and ANGSD, dimensionality reduction with PCA, tSNE and UMAP, admixture analysis, and population differentiation through Fst, F2, F3, and D-statistics of introgression.
+
+Genome-Wide Association Studies (GWAS) have become a cornerstone of modern genetics, enabling researchers to identify genetic variants associated with complex traits, disease, adaptation, and evolutionary processes. Large-scale genotyping and sequencing projects now make it possible to investigate the genetic architecture of phenotypic variation across populations and species. This course provides a practical introduction to GWAS methodology, from data generation and quality control through association testing, meta-analysis, and polygenic prediction.
+
+Participants will learn how to process and analyze genome-wide genotype data, run association studies with widely used software (PLINK, SNPTEST, GWAMA, METAL), visualize and interpret the results, and build polygenic risk scores. The course also covers modern genomic data processing with GATK, population structure correction, and the open problem of missing heritability. Through worked examples on real datasets, you will gain the skills to design, run, and critically evaluate GWAS analyses in evolutionary biology and related fields.
 
 ## Target audience and assumed background
-We assume some basic awareness of UNIX environment, as well as at least beginner level of R and / or Python programming.
+
+The course is intended for evolutionary biologists, population geneticists, bioinformaticians, medical geneticists, quantitative biologists, postgraduate students, and early-career researchers interested in GWAS and complex trait genetics. We assume a basic understanding of genetics, molecular biology, and statistics, and some familiarity with the command line and R. Prior experience with genomic datasets, population genetics, or NGS data is helpful but not required.
 
 ## Learning outcomes
+
 By completing this course, you will:
 
-- Understand the fundamentals of next-generation sequencing data and genetic variation in natural populations
-- Have an overview of bioinformatic tools and best practices for variant calling from low-coverage NGS data
-- Be able to perform alignment, genotype likelihood estimation, and variant calling with GATK and ANGSD on your own samples
-- Know the key challenges, approaches, and solutions in population structure and demographic inference
-- Be able to carry out PCA, admixture analysis, and Fst, F2, F3, and D-statistic computations to answer your specific research question
-- Be able to interpret population structure results and choose the right statistical framework for your study system 
+- Understand the principles of genetic variation and genome-wide association studies
+- Know the goals and contributions of major reference resources: HapMap, 1000 Genomes, HGDP, and ERGA
+- Be able to phase and impute genotype data with PHASEIT2 and IMPUTE2
+- Apply best-practice genotype QC: Hardy-Weinberg equilibrium, SNP call rate, and minor allele frequency/count filters
+- Perform association testing with PLINK and SNPTEST, and meta-analysis with GWAMA and METAL
+- Process NGS data with GATK best practices, from alignment and base quality recalibration to variant calling with HaplotypeCaller
+- Carry out permutation testing and conditional association analyses, and parallelize large GWAS computations
+- Visualize results with Manhattan plots and LocusZoom, and correct for population structure using PCA
+- Construct and validate polygenic risk scores on independent datasets
+- Understand the missing heritability problem and current approaches to addressing it 
 
 ---
 
