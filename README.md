@@ -95,3 +95,11 @@ By completing this course, you will:
 
 
 
+## Day 5: 3 pm - 9 pm Swedish time
+
+| Time           | Activity                                                                                   |Link                                                                                                            |
+|----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 15.00 - 17.30  | Polygenic Risk Scores prediction on independent sample and Missing Heritability problem    | [Slides](https://github.com/NikolayOskolkov/GWAS/blob/main/slides/Day5/PolygenicRiskScore.pdf)                                                                                        |
+| 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
+| 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/blob/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 20.30 - 21.00  | Questions and discussion                                                                   |
