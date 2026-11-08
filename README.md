@@ -54,7 +54,7 @@ By completing this course, you will:
 | 16.00 - 17.30  | Challenges of high-dimensional genomics data analysis and genome-wide association studies  | [Slides](https://github.com/NikolayOskolkov/GWAS/tree/main/slides/Day1/ChallengesGenomics.pdf)                                                                                       |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
 | 18.30 - 19.00  | Imputation strategies for chip-genotyping data to increase resolution of GWAS              | [Slides](https://github.com/NikolayOskolkov/GWAS/tree/main/slides/Day1/imputation.pdf)                                                                                               |
-| 19.00 - 20.30  | Practical: quality control, adapter removal and alignment of genomics data with BWA MEM    | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/GWAS/blob/main/practicals/Day1/QC_Alignment_1000G_Colab.html)                                                                                |
+| 19.00 - 20.30  | Practical: quality control, adapter removal and alignment of 1000G genomics data           | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/GWAS/blob/main/practicals/Day1/QC_Alignment_1000G_Colab.html)                                                                                |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
 
@@ -65,7 +65,7 @@ By completing this course, you will:
 |----------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 15.00 - 17.30  | Probabilistic genetic variation identification from low-coverage genomics data with ANGSD  | [Slides](https://github.com/NikolayOskolkov/GWAS/tree/main/slides/Day1/ANGSD.pdf)                                                                                                    |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
-| 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/PopGen_PopStructure/tree/main/practicals/Day1/ANGSD_Lab_GoogleColab.html)                                                                   |
+| 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/GWAS/blob/main/practicals/Day2/ANGSD_Lab_GoogleColab.html)                                                                                   |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
 
