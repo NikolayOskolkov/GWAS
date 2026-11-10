@@ -69,6 +69,7 @@ By completing this course, you will:
 | 16.00 - 17.30  | Probabilistic genetic variation identification from low-coverage genomics data with ANGSD  | [Slides](https://github.com/NikolayOskolkov/GWAS/tree/main/slides/Day2/ANGSD.pdf)                                                                                                    |
 | 17.30 - 18.30  | Break                                                                                      |                                                                                                                |
 | 18.30 - 20.30  | Practical: variant calling from low-coverage genomics data with ANGSD                      | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/GWAS/blob/main/practicals/Day2/ANGSD_Lab_GoogleColab.html)                                                                                   |
+| 19.00 - 20.30  | Practical: variant filtering and association analysis with ANGSD, PLINK and SNPTEST        | [Lab](https://github.com/NikolayOskolkov/GWAS/blob/main/practicals/Day2/Association_ANGSD_PLINK_SNPTEST_Hypolimnas_misippus_Colab.ipynb)                                              |
 | 20.30 - 21.00  | Questions and discussion                                                                   |
 
 
